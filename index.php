@@ -182,7 +182,5 @@
 	<script src="plugins/OwlCarousel2-2.2.1/dist/owl.carousel.min.js"></script>
 	<script src="plugins/jquery-validation-1.16.0/dist/jquery.validate.min.js"></script>
 	<script src="assets/js/main.js"></script>
-	<script src="plugins/jquery-3.2.1.min.js"></script>
-	<script src="plugins/bootstrap-3.3.7/js/bootstrap.min.js"></script>
 </body>
 </html>
